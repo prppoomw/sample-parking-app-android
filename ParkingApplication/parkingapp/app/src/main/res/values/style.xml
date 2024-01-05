@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BoldWhiteText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item> <!-- สีขาว -->
+        <item name="android:textStyle">bold</item> <!-- ตัวหนา -->
+    </style>
+</resources>
